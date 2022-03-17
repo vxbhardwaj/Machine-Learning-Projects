@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# NYC AirBnB Study
